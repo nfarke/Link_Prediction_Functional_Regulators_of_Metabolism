@@ -29,4 +29,4 @@ Link Prediction in PyTorch:
 - We then tested several validation metrics: Because the dataset is imbalanced metrics like balanced accuracy, Precision and Recall are important. It is important to avoid false negatives
   as the number of negative links outweights the positive cases. Accuracy itself is meaningless on it´s own because a high accuracy can be obtained by classifying all cases as negatives for example.
 -------------------
-I had the idea of this project. Martin Lempp then joined me and we setup the codes together.
+I designed this project. Martin Lempp then joined me and we setup the codes together.
